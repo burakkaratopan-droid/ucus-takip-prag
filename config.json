@@ -1,0 +1,28 @@
+{
+  "origins": [
+    {"code": "ADB", "name": "İzmir"},
+    {"code": "IST", "name": "İstanbul"}
+  ],
+  "destination": {"code": "PRG", "name": "Prag"},
+  "currency": "TRY",
+  "adults": 1,
+  "date_from": "2027-01-01",
+  "date_to": "2027-05-31",
+  "min_days": 3,
+  "max_days": 5,
+  "max_leave": 2,
+  "public_holidays": [
+    {"date": "2027-01-01", "name": "Yılbaşı"},
+    {"date": "2027-03-08", "name": "Ramazan Bayramı arifesi", "half": true},
+    {"date": "2027-03-09", "name": "Ramazan Bayramı"},
+    {"date": "2027-03-10", "name": "Ramazan Bayramı"},
+    {"date": "2027-03-11", "name": "Ramazan Bayramı"},
+    {"date": "2027-04-23", "name": "Ulusal Egemenlik ve Çocuk Bayramı"},
+    {"date": "2027-05-01", "name": "Emek ve Dayanışma Günü"},
+    {"date": "2027-05-15", "name": "Kurban Bayramı arifesi", "half": true},
+    {"date": "2027-05-16", "name": "Kurban Bayramı"},
+    {"date": "2027-05-17", "name": "Kurban Bayramı"},
+    {"date": "2027-05-18", "name": "Kurban Bayramı"},
+    {"date": "2027-05-19", "name": "Kurban Bayramı · Atatürk'ü Anma, Gençlik ve Spor Bayramı"}
+  ]
+}
