@@ -1,7 +1,8 @@
 {
   "origins": [
     {"code": "ADB", "name": "İzmir"},
-    {"code": "IST", "name": "İstanbul"}
+    {"code": "IST", "name": "İstanbul (IST)"},
+    {"code": "SAW", "name": "İstanbul (SAW)"}
   ],
   "destination": {"code": "PRG", "name": "Prag"},
   "currency": "TRY",
